@@ -1,0 +1,2 @@
+vless://49b26fcd-1f7a-4432-9409-f9052cdf6841@31.171.246.135:2095?security=reality&encryption=none&pbk=nUkzQTioIfMfc7x4LfUcL6AyCRnNqjyCeud4vDyRKGc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cisco.com&sid=3efde6465cce1c78#vpn+connect
+vless://d3c91964-c83a-470b-bac1-93576a2023b1@31.171.246.135:2053?security=reality&encryption=none&pbk=CxuAzydercrwTD-xEBC0HVhU4t-EUeb2UywrFXkyiko&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=itunes.apple.com&sid=95e75c4cf16db12f#vpn+connect
